@@ -9,10 +9,10 @@
   <div class="collapse navbar-collapse " id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active ml-4">
-        <a class="nav-link font-weight-bold text-white" href="http://localhost/parsertool/index.php"><i class="fas fa-home"></i> HOME</a>
+        <a class="nav-link font-weight-bold text-white" href="http://localhost/PHP-ShellScript/index.php"><i class="fas fa-home"></i> HOME</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link font-weight-bold text-white" href="http://localhost/parsertool/index.php"><i class="far fa-file-alt"></i> PARSER LOG</a>
+        <a class="nav-link font-weight-bold text-white" href="http://localhost/PHP-ShellScript/index.php"><i class="far fa-file-alt"></i> PARSER LOG</a>
       </li>
     </ul>
   </div>
